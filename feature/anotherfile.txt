@@ -1,1 +1,2 @@
 another file created in remote feature 1
+This file changed locallly
